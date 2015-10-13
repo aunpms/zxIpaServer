@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://484fd7c5.dl-one2up.com/onetwo/content/2015/10/13/484fd7c51e08c16b9fe820e63659fbcf.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>bundle-identifier</key>
+                <string>com.teamspeak.teamspeak</string>
+                <key>bundle-version</key>
+                <string>3.1.10.689</string>
+                <key>kind</key>
+                <string>software</string>
+                <key>title</key>
+                <string>TeamSpeak 3</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
